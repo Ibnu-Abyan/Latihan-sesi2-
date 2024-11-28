@@ -1,0 +1,82 @@
+body{
+	background: url(https://www.topgear.com/sites/default/files/2021/10/Porsche_Taycan_4S_CT_front_static.jpg);
+}
+#tampilan{
+	background-color: rgba(255, 99, 71, 0.2);
+	width: 1200px;
+	height: 3550px;
+	margin: auto;
+	padding: 5px;
+}
+#header{
+	background-color: brown;
+	height: 200px;
+	width: 1200px;
+	overflow: hidden;
+}
+#teks{
+	background-color: rgba(255, 99, 71, 0.2);
+	height: 23px;
+	width: 1194.3px;
+	overflow: hidden;
+	border-style: solid;
+	background-color: black;
+}
+#menu{
+	background: white;
+	height: 22px;
+	width: 1200px;
+}
+#kiri{
+	background: rgb(255, 211, 120);
+	height: 3300px;
+	width: 1194.3px;
+	float: left;
+	border-style: solid;
+	border-color: #697565;
+}
+.box{
+	width: 700px;
+	height: 700px;
+	padding: 10px;
+	border: 5px solid #333;
+	margin: auto;
+	background-color: white;
+}
+.outline-box{
+	width: 300px;
+	height: 200px;
+	outline: 2px dashed #ff0000;
+	padding: 20px;
+	background-color: #e0e0e0;
+}
+.text {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+}
+#a{
+    color: #007bff;
+    text-decoration: none;
+}
+#a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+#table {
+    width: 100%;
+    border-collapse: collapse;
+}
+#th, td{
+    border: 1px solid black; 
+    padding: 10px; 
+    text-align: center;
+    background-color: white;
+}
+
+
+
+
+
+
